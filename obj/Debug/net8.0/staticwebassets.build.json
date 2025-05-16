@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lWeEUX+YCcG8iNM+uwhWWn6c91DzRlzpZ4z4X2+dh0Y=",
+  "Hash": "0vrD7awnIViSVf8NSQDm+nLXkzgWWgsX29pONAkgEoo=",
   "Source": "BooksAPI",
   "BasePath": "_content/BooksAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BooksAPI\\wwwroot",
       "Source": "BooksAPI",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\السؤال الحائر.m4a",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\السؤال الحائر.m4a",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Audio/السؤال الحائر#[.{fingerprint}]?.m4a",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Audio\\السؤال الحائر.m4a"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Audio/رحلتي من الشك للإيمان#[.{fingerprint}]?.m4a",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Audio/رواية اعلان عن جريمة#[.{fingerprint}]?.m4a",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Audio\\رواية اعلان عن جريمة.m4a"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية العنكبوت.m4a",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية العنكبوت.m4a",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Audio/رواية العنكبوت#[.{fingerprint}]?.m4a",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Audio\\رواية العنكبوت.m4a"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Audio/غسان كنفاني - رجال في الشمس#[.{fingerprint}]?.m4a",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\فن الحياة.m4a",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\فن الحياة.m4a",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Audio/فن الحياة#[.{fingerprint}]?.m4a",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Audio\\فن الحياة.m4a"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Audio/كتاب تهمة اليأس#[.{fingerprint}]?.m4a",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Audio\\كتاب تهمة اليأس.m4a"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Images/إعلان_عن_جريمة#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\إعلان_عن_جريمة.jpg"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\السؤال الحائر.jpg",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\السؤال الحائر.jpg",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Images/السؤال الحائر#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\السؤال الحائر.jpg"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\تهمة اليأس.jpg",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\تهمة اليأس.jpg",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Images/تهمة اليأس#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\تهمة اليأس.jpg"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رجال في الشمس.jpg",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رجال في الشمس.jpg",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Images/رجال في الشمس#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\رجال في الشمس.jpg"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Images/رحلتي من الشك إلى الأيمان#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رواية_العنكبوت.jpg",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رواية_العنكبوت.jpg",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Images/رواية_العنكبوت#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\رواية_العنكبوت.jpg"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\فن الحياة.jpg",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\فن الحياة.jpg",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "Images/فن الحياة#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\فن الحياة.jpg"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "PDFs/إعلان عن جريمة#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\PDFs\\إعلان عن جريمة.pdf"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\السؤال الحائر.pdf",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\السؤال الحائر.pdf",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "PDFs/السؤال الحائر#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\PDFs\\السؤال الحائر.pdf"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "PDFs/رحلتي من الشك إلى الإيمان#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "PDFs/رواية العنكبوت#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\PDFs\\رواية العنكبوت.pdf"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "PDFs/رواية رجال في الشمس#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\PDFs\\رواية رجال في الشمس.pdf"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\فن_الحياة.pdf",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\فن_الحياة.pdf",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "PDFs/فن_الحياة#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\PDFs\\فن_الحياة.pdf"
     },
     {
-      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
+      "Identity": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
       "SourceId": "BooksAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "PDFs/كتاب تهمة اليأس#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -461,7 +461,7 @@
   "Endpoints": [
     {
       "Route": "Audio/السؤال الحائر.6i67iyux9v.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\السؤال الحائر.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\السؤال الحائر.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -482,7 +482,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:39:56 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -506,7 +506,7 @@
     },
     {
       "Route": "Audio/السؤال الحائر.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\السؤال الحائر.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\السؤال الحائر.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -527,7 +527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:39:56 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -543,7 +543,7 @@
     },
     {
       "Route": "Audio/رحلتي من الشك للإيمان.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -564,7 +564,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:38:41 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -580,7 +580,7 @@
     },
     {
       "Route": "Audio/رحلتي من الشك للإيمان.od1g1hyvn0.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -601,7 +601,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:38:41 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -625,7 +625,7 @@
     },
     {
       "Route": "Audio/رواية اعلان عن جريمة.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -646,7 +646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:22:04 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -662,7 +662,7 @@
     },
     {
       "Route": "Audio/رواية اعلان عن جريمة.opjfh0epjz.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -683,7 +683,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:22:04 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -707,7 +707,7 @@
     },
     {
       "Route": "Audio/رواية العنكبوت.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية العنكبوت.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية العنكبوت.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -728,7 +728,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:24:18 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -744,7 +744,7 @@
     },
     {
       "Route": "Audio/رواية العنكبوت.vyhdc9713y.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية العنكبوت.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية العنكبوت.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -765,7 +765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:24:18 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -789,7 +789,7 @@
     },
     {
       "Route": "Audio/غسان كنفاني - رجال في الشمس.avzgaf2xi4.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -810,7 +810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 15:30:29 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -834,7 +834,7 @@
     },
     {
       "Route": "Audio/غسان كنفاني - رجال في الشمس.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -855,7 +855,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 15:30:29 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -871,7 +871,7 @@
     },
     {
       "Route": "Audio/فن الحياة.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\فن الحياة.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\فن الحياة.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -892,7 +892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:34:24 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -908,7 +908,7 @@
     },
     {
       "Route": "Audio/فن الحياة.v2tifsnnke.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\فن الحياة.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\فن الحياة.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -929,7 +929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:34:24 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -953,7 +953,7 @@
     },
     {
       "Route": "Audio/كتاب تهمة اليأس.3n2g6g4kjd.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -974,7 +974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:31:53 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -998,7 +998,7 @@
     },
     {
       "Route": "Audio/كتاب تهمة اليأس.m4a",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1019,7 +1019,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:31:53 GMT"
+          "Value": "Fri, 16 May 2025 14:09:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1035,7 +1035,7 @@
     },
     {
       "Route": "Images/إعلان_عن_جريمة.3hyma8187z.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1056,7 +1056,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:46:00 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1080,7 +1080,7 @@
     },
     {
       "Route": "Images/إعلان_عن_جريمة.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1101,7 +1101,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:46:00 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1117,7 +1117,7 @@
     },
     {
       "Route": "Images/السؤال الحائر.j71b67djl4.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\السؤال الحائر.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\السؤال الحائر.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1138,7 +1138,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:56:21 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1162,7 +1162,7 @@
     },
     {
       "Route": "Images/السؤال الحائر.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\السؤال الحائر.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\السؤال الحائر.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1183,7 +1183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:56:21 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1199,7 +1199,7 @@
     },
     {
       "Route": "Images/تهمة اليأس.difdlv4805.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\تهمة اليأس.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\تهمة اليأس.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1220,7 +1220,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:25:51 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1244,7 +1244,7 @@
     },
     {
       "Route": "Images/تهمة اليأس.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\تهمة اليأس.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\تهمة اليأس.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1265,7 +1265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:25:51 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1281,7 +1281,7 @@
     },
     {
       "Route": "Images/رجال في الشمس.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رجال في الشمس.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رجال في الشمس.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1302,7 +1302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 15:52:26 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1318,7 +1318,7 @@
     },
     {
       "Route": "Images/رجال في الشمس.wmoaottiox.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رجال في الشمس.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رجال في الشمس.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1339,7 +1339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 15:52:26 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1363,7 +1363,7 @@
     },
     {
       "Route": "Images/رحلتي من الشك إلى الأيمان.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1384,7 +1384,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:43:03 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1400,7 +1400,7 @@
     },
     {
       "Route": "Images/رحلتي من الشك إلى الأيمان.qz4fqnfy3g.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1421,7 +1421,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:43:03 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1445,7 +1445,7 @@
     },
     {
       "Route": "Images/رواية_العنكبوت.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رواية_العنكبوت.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رواية_العنكبوت.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1466,7 +1466,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 17:53:25 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1482,7 +1482,7 @@
     },
     {
       "Route": "Images/رواية_العنكبوت.yprrvmsxwh.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رواية_العنكبوت.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رواية_العنكبوت.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1503,7 +1503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 17:53:25 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1527,7 +1527,7 @@
     },
     {
       "Route": "Images/فن الحياة.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\فن الحياة.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\فن الحياة.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1548,7 +1548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:39:01 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1564,7 +1564,7 @@
     },
     {
       "Route": "Images/فن الحياة.ue3d0k438c.jpg",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\فن الحياة.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\فن الحياة.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1585,7 +1585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:39:01 GMT"
+          "Value": "Fri, 16 May 2025 14:09:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1609,7 +1609,7 @@
     },
     {
       "Route": "PDFs/إعلان عن جريمة.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1630,7 +1630,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:49:19 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1646,7 +1646,7 @@
     },
     {
       "Route": "PDFs/إعلان عن جريمة.rlszbu77qm.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1667,7 +1667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:49:19 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1691,7 +1691,7 @@
     },
     {
       "Route": "PDFs/السؤال الحائر.hvxrfqzcwf.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\السؤال الحائر.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\السؤال الحائر.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1712,7 +1712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:57:18 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1736,7 +1736,7 @@
     },
     {
       "Route": "PDFs/السؤال الحائر.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\السؤال الحائر.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\السؤال الحائر.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1757,7 +1757,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:57:18 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1773,7 +1773,7 @@
     },
     {
       "Route": "PDFs/رحلتي من الشك إلى الإيمان.3f86nm20ep.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1794,7 +1794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:46:32 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1818,7 +1818,7 @@
     },
     {
       "Route": "PDFs/رحلتي من الشك إلى الإيمان.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1839,7 +1839,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 11:46:32 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1855,7 +1855,7 @@
     },
     {
       "Route": "PDFs/رواية العنكبوت.6l68ohh0h6.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1876,7 +1876,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:19:11 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1900,7 +1900,7 @@
     },
     {
       "Route": "PDFs/رواية العنكبوت.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1921,7 +1921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:19:11 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1937,7 +1937,7 @@
     },
     {
       "Route": "PDFs/رواية رجال في الشمس.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1958,7 +1958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:16:58 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1974,7 +1974,7 @@
     },
     {
       "Route": "PDFs/رواية رجال في الشمس.wf1dk1ogh0.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1995,7 +1995,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 00:16:58 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2019,7 +2019,7 @@
     },
     {
       "Route": "PDFs/فن_الحياة.a0yyhpr355.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\فن_الحياة.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\فن_الحياة.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2040,7 +2040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:27:06 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2064,7 +2064,7 @@
     },
     {
       "Route": "PDFs/فن_الحياة.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\فن_الحياة.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\فن_الحياة.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2085,7 +2085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:27:06 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2101,7 +2101,7 @@
     },
     {
       "Route": "PDFs/كتاب تهمة اليأس.hyuwzcsqqn.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2122,7 +2122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:21:32 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2146,7 +2146,7 @@
     },
     {
       "Route": "PDFs/كتاب تهمة اليأس.pdf",
-      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2167,7 +2167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 12:21:32 GMT"
+          "Value": "Fri, 16 May 2025 14:09:40 GMT"
         },
         {
           "Name": "Cache-Control",

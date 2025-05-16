@@ -9,17 +9,15 @@ namespace BooksAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            var connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION")
-                ?? builder.Configuration.GetConnectionString("Constr");
+            var connectionString = builder.Configuration.GetConnectionString("Constr");
 
             builder.Services.AddDbContext<AppDbContext>(options =>
-                options.UseNpgsql(connectionString));
-
+                options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-           
+
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll",
@@ -27,21 +25,10 @@ namespace BooksAPI
             });
 
             var app = builder.Build();
-
-         
-            using (var scope = app.Services.CreateScope())
-            {
-                var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-                db.Database.Migrate();
-
-               
-                DbSeeder.Seed(app);
-            }
-
-           
+            DbSeeder.Seed(app);
             app.UseCors("AllowAll");
 
-            
+
             app.UseSwagger();
             app.UseSwaggerUI();
 
@@ -51,9 +38,6 @@ namespace BooksAPI
             app.UseAuthorization();
 
             app.MapControllers();
-
-            var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-            app.Urls.Add($"http://*:{port}");
 
             app.Run();
         }

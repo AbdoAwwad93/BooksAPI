@@ -1,87 +1,87 @@
 {
   "Files": [
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\السؤال الحائر.m4a",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\السؤال الحائر.m4a",
       "PackagePath": "staticwebassets\\Audio\\السؤال الحائر.m4a"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
       "PackagePath": "staticwebassets\\Audio\\رحلتي من الشك للإيمان.m4a"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
       "PackagePath": "staticwebassets\\Audio\\رواية اعلان عن جريمة.m4a"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية العنكبوت.m4a",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\رواية العنكبوت.m4a",
       "PackagePath": "staticwebassets\\Audio\\رواية العنكبوت.m4a"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
       "PackagePath": "staticwebassets\\Audio\\غسان كنفاني - رجال في الشمس.m4a"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\فن الحياة.m4a",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\فن الحياة.m4a",
       "PackagePath": "staticwebassets\\Audio\\فن الحياة.m4a"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
       "PackagePath": "staticwebassets\\Audio\\كتاب تهمة اليأس.m4a"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
       "PackagePath": "staticwebassets\\Images\\إعلان_عن_جريمة.jpg"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\السؤال الحائر.jpg",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\السؤال الحائر.jpg",
       "PackagePath": "staticwebassets\\Images\\السؤال الحائر.jpg"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\تهمة اليأس.jpg",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\تهمة اليأس.jpg",
       "PackagePath": "staticwebassets\\Images\\تهمة اليأس.jpg"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رجال في الشمس.jpg",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رجال في الشمس.jpg",
       "PackagePath": "staticwebassets\\Images\\رجال في الشمس.jpg"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
       "PackagePath": "staticwebassets\\Images\\رحلتي من الشك إلى الأيمان.jpg"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رواية_العنكبوت.jpg",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\رواية_العنكبوت.jpg",
       "PackagePath": "staticwebassets\\Images\\رواية_العنكبوت.jpg"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\فن الحياة.jpg",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\Images\\فن الحياة.jpg",
       "PackagePath": "staticwebassets\\Images\\فن الحياة.jpg"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
       "PackagePath": "staticwebassets\\PDFs\\إعلان عن جريمة.pdf"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\السؤال الحائر.pdf",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\السؤال الحائر.pdf",
       "PackagePath": "staticwebassets\\PDFs\\السؤال الحائر.pdf"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
       "PackagePath": "staticwebassets\\PDFs\\رحلتي من الشك إلى الإيمان.pdf"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
       "PackagePath": "staticwebassets\\PDFs\\رواية العنكبوت.pdf"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
       "PackagePath": "staticwebassets\\PDFs\\رواية رجال في الشمس.pdf"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\فن_الحياة.pdf",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\فن_الحياة.pdf",
       "PackagePath": "staticwebassets\\PDFs\\فن_الحياة.pdf"
     },
     {
-      "Id": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
+      "Id": "E:\\projects\\BooksAPI\\BookAPI-clean\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
       "PackagePath": "staticwebassets\\PDFs\\كتاب تهمة اليأس.pdf"
     },
     {

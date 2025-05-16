@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {}
+    "E:\\projects\\BooksAPI\\BookAPI-clean\\BooksAPI.csproj": {}
   },
   "projects": {
-    "E:\\projects\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {
+    "E:\\projects\\BooksAPI\\BookAPI-clean\\BooksAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+        "projectUniqueName": "E:\\projects\\BooksAPI\\BookAPI-clean\\BooksAPI.csproj",
         "projectName": "BooksAPI",
-        "projectPath": "E:\\projects\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+        "projectPath": "E:\\projects\\BooksAPI\\BookAPI-clean\\BooksAPI.csproj",
         "packagesPath": "C:\\Users\\Abdoa\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\BooksAPI\\BooksAPI\\obj\\",
+        "outputPath": "E:\\projects\\BooksAPI\\BookAPI-clean\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,6 +73,10 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

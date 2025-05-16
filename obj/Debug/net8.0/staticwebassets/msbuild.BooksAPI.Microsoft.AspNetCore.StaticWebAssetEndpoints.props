@@ -4,253 +4,253 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\السؤال الحائر.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6i67iyux9v"},{"Name":"integrity","Value":"sha256-rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA="},{"Name":"label","Value":"_content/BooksAPI/Audio/\u0627\u0644\u0633\u0624\u0627\u0644 \u0627\u0644\u062D\u0627\u0626\u0631.m4a"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"121562251"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:39:56 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"121562251"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/السؤال الحائر.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\السؤال الحائر.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"121562251"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:39:56 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"121562251"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/رحلتي من الشك للإيمان.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\رحلتي من الشك للإيمان.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"141188257"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:38:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"141188257"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/رحلتي من الشك للإيمان.od1g1hyvn0.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\رحلتي من الشك للإيمان.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"od1g1hyvn0"},{"Name":"integrity","Value":"sha256-BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4="},{"Name":"label","Value":"_content/BooksAPI/Audio/\u0631\u062D\u0644\u062A\u064A \u0645\u0646 \u0627\u0644\u0634\u0643 \u0644\u0644\u0625\u064A\u0645\u0627\u0646.m4a"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"141188257"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:38:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"141188257"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/رواية اعلان عن جريمة.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\رواية اعلان عن جريمة.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz\u002Bn1R7vc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"205508007"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz\u002Bn1R7vc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:22:04 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"205508007"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz\u002Bn1R7vc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/رواية اعلان عن جريمة.opjfh0epjz.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\رواية اعلان عن جريمة.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opjfh0epjz"},{"Name":"integrity","Value":"sha256-jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz\u002Bn1R7vc="},{"Name":"label","Value":"_content/BooksAPI/Audio/\u0631\u0648\u0627\u064A\u0629 \u0627\u0639\u0644\u0627\u0646 \u0639\u0646 \u062C\u0631\u064A\u0645\u0629.m4a"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"205508007"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz\u002Bn1R7vc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:22:04 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"205508007"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz\u002Bn1R7vc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/رواية العنكبوت.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\رواية العنكبوت.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"131288353"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:24:18 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"131288353"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/رواية العنكبوت.vyhdc9713y.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\رواية العنكبوت.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vyhdc9713y"},{"Name":"integrity","Value":"sha256-N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI="},{"Name":"label","Value":"_content/BooksAPI/Audio/\u0631\u0648\u0627\u064A\u0629 \u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062A.m4a"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"131288353"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:24:18 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"131288353"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/غسان كنفاني - رجال في الشمس.avzgaf2xi4.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\غسان كنفاني - رجال في الشمس.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"avzgaf2xi4"},{"Name":"integrity","Value":"sha256-aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU="},{"Name":"label","Value":"_content/BooksAPI/Audio/\u063A\u0633\u0627\u0646 \u0643\u0646\u0641\u0627\u0646\u064A - \u0631\u062C\u0627\u0644 \u0641\u064A \u0627\u0644\u0634\u0645\u0633.m4a"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"138263924"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 15:30:29 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"138263924"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/غسان كنفاني - رجال في الشمس.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\غسان كنفاني - رجال في الشمس.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"138263924"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 15:30:29 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"138263924"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/فن الحياة.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\فن الحياة.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"218813306"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:34:24 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"218813306"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/فن الحياة.v2tifsnnke.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\فن الحياة.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v2tifsnnke"},{"Name":"integrity","Value":"sha256-SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o="},{"Name":"label","Value":"_content/BooksAPI/Audio/\u0641\u0646 \u0627\u0644\u062D\u064A\u0627\u0629.m4a"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"218813306"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:34:24 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"218813306"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/كتاب تهمة اليأس.3n2g6g4kjd.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\كتاب تهمة اليأس.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3n2g6g4kjd"},{"Name":"integrity","Value":"sha256-oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY="},{"Name":"label","Value":"_content/BooksAPI/Audio/\u0643\u062A\u0627\u0628 \u062A\u0647\u0645\u0629 \u0627\u0644\u064A\u0623\u0633.m4a"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"185613845"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:31:53 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"185613845"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Audio/كتاب تهمة اليأس.m4a">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Audio\كتاب تهمة اليأس.m4a'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"185613845"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:31:53 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"185613845"},{"Name":"Content-Type","Value":"audio/mp4"},{"Name":"ETag","Value":"\u0022oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/إعلان_عن_جريمة.3hyma8187z.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\إعلان_عن_جريمة.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3hyma8187z"},{"Name":"integrity","Value":"sha256-\u002BS2W\u002ByvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8="},{"Name":"label","Value":"_content/BooksAPI/Images/\u0625\u0639\u0644\u0627\u0646_\u0639\u0646_\u062C\u0631\u064A\u0645\u0629.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16409"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BS2W\u002ByvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:46:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16409"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BS2W\u002ByvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/إعلان_عن_جريمة.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\إعلان_عن_جريمة.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BS2W\u002ByvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16409"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BS2W\u002ByvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:46:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16409"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BS2W\u002ByvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/السؤال الحائر.j71b67djl4.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\السؤال الحائر.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j71b67djl4"},{"Name":"integrity","Value":"sha256-36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5\u002BjHyVI1E="},{"Name":"label","Value":"_content/BooksAPI/Images/\u0627\u0644\u0633\u0624\u0627\u0644 \u0627\u0644\u062D\u0627\u0626\u0631.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"513423"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002236xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5\u002BjHyVI1E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:56:21 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"513423"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002236xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5\u002BjHyVI1E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/السؤال الحائر.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\السؤال الحائر.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5\u002BjHyVI1E="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"513423"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002236xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5\u002BjHyVI1E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:56:21 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"513423"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002236xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5\u002BjHyVI1E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/تهمة اليأس.difdlv4805.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\تهمة اليأس.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"difdlv4805"},{"Name":"integrity","Value":"sha256-xeCfueXo4\u002BQ2Oj8vUSU\u002B52cutowrcmJCQWlSvCTg4rg="},{"Name":"label","Value":"_content/BooksAPI/Images/\u062A\u0647\u0645\u0629 \u0627\u0644\u064A\u0623\u0633.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18537"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xeCfueXo4\u002BQ2Oj8vUSU\u002B52cutowrcmJCQWlSvCTg4rg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:25:51 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18537"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xeCfueXo4\u002BQ2Oj8vUSU\u002B52cutowrcmJCQWlSvCTg4rg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/تهمة اليأس.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\تهمة اليأس.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xeCfueXo4\u002BQ2Oj8vUSU\u002B52cutowrcmJCQWlSvCTg4rg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18537"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xeCfueXo4\u002BQ2Oj8vUSU\u002B52cutowrcmJCQWlSvCTg4rg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:25:51 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18537"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xeCfueXo4\u002BQ2Oj8vUSU\u002B52cutowrcmJCQWlSvCTg4rg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/رجال في الشمس.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\رجال في الشمس.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OJeU8HyRdB4w8k6/b\u002BQ1CC\u002BUFY\u002BH6mUAhKhaHmaznQU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21305"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OJeU8HyRdB4w8k6/b\u002BQ1CC\u002BUFY\u002BH6mUAhKhaHmaznQU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 15:52:26 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21305"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OJeU8HyRdB4w8k6/b\u002BQ1CC\u002BUFY\u002BH6mUAhKhaHmaznQU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/رجال في الشمس.wmoaottiox.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\رجال في الشمس.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wmoaottiox"},{"Name":"integrity","Value":"sha256-OJeU8HyRdB4w8k6/b\u002BQ1CC\u002BUFY\u002BH6mUAhKhaHmaznQU="},{"Name":"label","Value":"_content/BooksAPI/Images/\u0631\u062C\u0627\u0644 \u0641\u064A \u0627\u0644\u0634\u0645\u0633.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21305"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OJeU8HyRdB4w8k6/b\u002BQ1CC\u002BUFY\u002BH6mUAhKhaHmaznQU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 15:52:26 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21305"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OJeU8HyRdB4w8k6/b\u002BQ1CC\u002BUFY\u002BH6mUAhKhaHmaznQU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/رحلتي من الشك إلى الأيمان.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\رحلتي من الشك إلى الأيمان.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BrIsvgXWDfKKZdGm4LxjLqibt6ge\u002BIy04M/ki2Vd19c="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"235332"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BrIsvgXWDfKKZdGm4LxjLqibt6ge\u002BIy04M/ki2Vd19c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:43:03 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"235332"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BrIsvgXWDfKKZdGm4LxjLqibt6ge\u002BIy04M/ki2Vd19c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/رحلتي من الشك إلى الأيمان.qz4fqnfy3g.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\رحلتي من الشك إلى الأيمان.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qz4fqnfy3g"},{"Name":"integrity","Value":"sha256-\u002BrIsvgXWDfKKZdGm4LxjLqibt6ge\u002BIy04M/ki2Vd19c="},{"Name":"label","Value":"_content/BooksAPI/Images/\u0631\u062D\u0644\u062A\u064A \u0645\u0646 \u0627\u0644\u0634\u0643 \u0625\u0644\u0649 \u0627\u0644\u0623\u064A\u0645\u0627\u0646.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"235332"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BrIsvgXWDfKKZdGm4LxjLqibt6ge\u002BIy04M/ki2Vd19c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:43:03 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"235332"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BrIsvgXWDfKKZdGm4LxjLqibt6ge\u002BIy04M/ki2Vd19c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/رواية_العنكبوت.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\رواية_العنكبوت.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Fly4l\u002BcOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37003"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Fly4l\u002BcOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 17:53:25 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37003"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Fly4l\u002BcOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/رواية_العنكبوت.yprrvmsxwh.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\رواية_العنكبوت.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yprrvmsxwh"},{"Name":"integrity","Value":"sha256-Fly4l\u002BcOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps="},{"Name":"label","Value":"_content/BooksAPI/Images/\u0631\u0648\u0627\u064A\u0629_\u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062A.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37003"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Fly4l\u002BcOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 17:53:25 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37003"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Fly4l\u002BcOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/فن الحياة.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\فن الحياة.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p\u002B/9ZJIjm0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122831"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p\u002B/9ZJIjm0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:39:01 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122831"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p\u002B/9ZJIjm0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/Images/فن الحياة.ue3d0k438c.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\فن الحياة.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ue3d0k438c"},{"Name":"integrity","Value":"sha256-et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p\u002B/9ZJIjm0="},{"Name":"label","Value":"_content/BooksAPI/Images/\u0641\u0646 \u0627\u0644\u062D\u064A\u0627\u0629.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122831"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p\u002B/9ZJIjm0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:39:01 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122831"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p\u002B/9ZJIjm0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/إعلان عن جريمة.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\إعلان عن جريمة.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18624437"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:49:19 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18624437"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/إعلان عن جريمة.rlszbu77qm.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\إعلان عن جريمة.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rlszbu77qm"},{"Name":"integrity","Value":"sha256-cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg="},{"Name":"label","Value":"_content/BooksAPI/PDFs/\u0625\u0639\u0644\u0627\u0646 \u0639\u0646 \u062C\u0631\u064A\u0645\u0629.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18624437"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:49:19 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18624437"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/السؤال الحائر.hvxrfqzcwf.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\السؤال الحائر.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hvxrfqzcwf"},{"Name":"integrity","Value":"sha256-w9Sw\u002BmJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf\u002BClhmE="},{"Name":"label","Value":"_content/BooksAPI/PDFs/\u0627\u0644\u0633\u0624\u0627\u0644 \u0627\u0644\u062D\u0627\u0626\u0631.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1177142"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022w9Sw\u002BmJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf\u002BClhmE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:57:18 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1177142"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022w9Sw\u002BmJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf\u002BClhmE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/السؤال الحائر.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\السؤال الحائر.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w9Sw\u002BmJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf\u002BClhmE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1177142"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022w9Sw\u002BmJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf\u002BClhmE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:57:18 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1177142"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022w9Sw\u002BmJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf\u002BClhmE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/رحلتي من الشك إلى الإيمان.3f86nm20ep.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\رحلتي من الشك إلى الإيمان.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3f86nm20ep"},{"Name":"integrity","Value":"sha256-4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU="},{"Name":"label","Value":"_content/BooksAPI/PDFs/\u0631\u062D\u0644\u062A\u064A \u0645\u0646 \u0627\u0644\u0634\u0643 \u0625\u0644\u0649 \u0627\u0644\u0625\u064A\u0645\u0627\u0646.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"356101"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00224eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:46:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"356101"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00224eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/رحلتي من الشك إلى الإيمان.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\رحلتي من الشك إلى الإيمان.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"356101"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00224eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:46:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"356101"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00224eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/رواية العنكبوت.6l68ohh0h6.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\رواية العنكبوت.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6l68ohh0h6"},{"Name":"integrity","Value":"sha256-piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU="},{"Name":"label","Value":"_content/BooksAPI/PDFs/\u0631\u0648\u0627\u064A\u0629 \u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062A.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9231297"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:19:11 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9231297"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/رواية العنكبوت.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\رواية العنكبوت.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9231297"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:19:11 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9231297"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/رواية رجال في الشمس.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\رواية رجال في الشمس.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY\u002B\u002B\u002BOf6\u002B7I="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1280263"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY\u002B\u002B\u002BOf6\u002B7I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:16:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1280263"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY\u002B\u002B\u002BOf6\u002B7I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/رواية رجال في الشمس.wf1dk1ogh0.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\رواية رجال في الشمس.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wf1dk1ogh0"},{"Name":"integrity","Value":"sha256-dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY\u002B\u002B\u002BOf6\u002B7I="},{"Name":"label","Value":"_content/BooksAPI/PDFs/\u0631\u0648\u0627\u064A\u0629 \u0631\u062C\u0627\u0644 \u0641\u064A \u0627\u0644\u0634\u0645\u0633.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1280263"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY\u002B\u002B\u002BOf6\u002B7I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 00:16:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1280263"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY\u002B\u002B\u002BOf6\u002B7I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/فن_الحياة.a0yyhpr355.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\فن_الحياة.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a0yyhpr355"},{"Name":"integrity","Value":"sha256-qgUB4EvBy6ZKGkg2FOntrNd\u002B6z2dPCQdhsEewUbVzPs="},{"Name":"label","Value":"_content/BooksAPI/PDFs/\u0641\u0646_\u0627\u0644\u062D\u064A\u0627\u0629.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2734124"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022qgUB4EvBy6ZKGkg2FOntrNd\u002B6z2dPCQdhsEewUbVzPs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:27:06 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2734124"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022qgUB4EvBy6ZKGkg2FOntrNd\u002B6z2dPCQdhsEewUbVzPs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/فن_الحياة.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\فن_الحياة.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qgUB4EvBy6ZKGkg2FOntrNd\u002B6z2dPCQdhsEewUbVzPs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2734124"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022qgUB4EvBy6ZKGkg2FOntrNd\u002B6z2dPCQdhsEewUbVzPs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:27:06 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2734124"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022qgUB4EvBy6ZKGkg2FOntrNd\u002B6z2dPCQdhsEewUbVzPs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/كتاب تهمة اليأس.hyuwzcsqqn.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\كتاب تهمة اليأس.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hyuwzcsqqn"},{"Name":"integrity","Value":"sha256-uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY="},{"Name":"label","Value":"_content/BooksAPI/PDFs/\u0643\u062A\u0627\u0628 \u062A\u0647\u0645\u0629 \u0627\u0644\u064A\u0623\u0633.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6365955"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:21:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6365955"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BooksAPI/PDFs/كتاب تهمة اليأس.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PDFs\كتاب تهمة اليأس.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6365955"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 12:21:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6365955"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 14:09:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
