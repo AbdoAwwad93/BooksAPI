@@ -1,0 +1,1728 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Audio/السؤال الحائر.6i67iyux9v.m4a",
+      "AssetFile": "Audio/السؤال الحائر.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121562251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6i67iyux9v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA="
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/السؤال الحائر.m4a"
+        }
+      ]
+    },
+    {
+      "Route": "Audio/السؤال الحائر.m4a",
+      "AssetFile": "Audio/السؤال الحائر.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121562251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رحلتي من الشك للإيمان.m4a",
+      "AssetFile": "Audio/رحلتي من الشك للإيمان.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141188257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:38:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رحلتي من الشك للإيمان.od1g1hyvn0.m4a",
+      "AssetFile": "Audio/رحلتي من الشك للإيمان.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141188257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:38:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "od1g1hyvn0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4="
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/رحلتي من الشك للإيمان.m4a"
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية اعلان عن جريمة.m4a",
+      "AssetFile": "Audio/رواية اعلان عن جريمة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205508007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:22:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية اعلان عن جريمة.opjfh0epjz.m4a",
+      "AssetFile": "Audio/رواية اعلان عن جريمة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205508007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:22:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opjfh0epjz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc="
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/رواية اعلان عن جريمة.m4a"
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية العنكبوت.m4a",
+      "AssetFile": "Audio/رواية العنكبوت.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131288353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:24:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية العنكبوت.vyhdc9713y.m4a",
+      "AssetFile": "Audio/رواية العنكبوت.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131288353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:24:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vyhdc9713y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI="
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/رواية العنكبوت.m4a"
+        }
+      ]
+    },
+    {
+      "Route": "Audio/غسان كنفاني - رجال في الشمس.avzgaf2xi4.m4a",
+      "AssetFile": "Audio/غسان كنفاني - رجال في الشمس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138263924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:30:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avzgaf2xi4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU="
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/غسان كنفاني - رجال في الشمس.m4a"
+        }
+      ]
+    },
+    {
+      "Route": "Audio/غسان كنفاني - رجال في الشمس.m4a",
+      "AssetFile": "Audio/غسان كنفاني - رجال في الشمس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138263924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:30:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/فن الحياة.m4a",
+      "AssetFile": "Audio/فن الحياة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218813306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:34:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/فن الحياة.v2tifsnnke.m4a",
+      "AssetFile": "Audio/فن الحياة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218813306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:34:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v2tifsnnke"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o="
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/فن الحياة.m4a"
+        }
+      ]
+    },
+    {
+      "Route": "Audio/كتاب تهمة اليأس.3n2g6g4kjd.m4a",
+      "AssetFile": "Audio/كتاب تهمة اليأس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185613845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:31:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3n2g6g4kjd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY="
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/كتاب تهمة اليأس.m4a"
+        }
+      ]
+    },
+    {
+      "Route": "Audio/كتاب تهمة اليأس.m4a",
+      "AssetFile": "Audio/كتاب تهمة اليأس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185613845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:31:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/إعلان_عن_جريمة.3hyma8187z.jpg",
+      "AssetFile": "Images/إعلان_عن_جريمة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:46:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hyma8187z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/إعلان_عن_جريمة.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/إعلان_عن_جريمة.jpg",
+      "AssetFile": "Images/إعلان_عن_جريمة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:46:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/السؤال الحائر.j71b67djl4.jpg",
+      "AssetFile": "Images/السؤال الحائر.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:56:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j71b67djl4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/السؤال الحائر.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/السؤال الحائر.jpg",
+      "AssetFile": "Images/السؤال الحائر.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:56:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/تهمة اليأس.difdlv4805.jpg",
+      "AssetFile": "Images/تهمة اليأس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:25:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "difdlv4805"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/تهمة اليأس.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/تهمة اليأس.jpg",
+      "AssetFile": "Images/تهمة اليأس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:25:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رجال في الشمس.jpg",
+      "AssetFile": "Images/رجال في الشمس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:52:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رجال في الشمس.wmoaottiox.jpg",
+      "AssetFile": "Images/رجال في الشمس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:52:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wmoaottiox"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/رجال في الشمس.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/رحلتي من الشك إلى الأيمان.jpg",
+      "AssetFile": "Images/رحلتي من الشك إلى الأيمان.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:43:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رحلتي من الشك إلى الأيمان.qz4fqnfy3g.jpg",
+      "AssetFile": "Images/رحلتي من الشك إلى الأيمان.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:43:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qz4fqnfy3g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/رحلتي من الشك إلى الأيمان.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/رواية_العنكبوت.jpg",
+      "AssetFile": "Images/رواية_العنكبوت.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:53:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رواية_العنكبوت.yprrvmsxwh.jpg",
+      "AssetFile": "Images/رواية_العنكبوت.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:53:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yprrvmsxwh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/رواية_العنكبوت.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/فن الحياة.jpg",
+      "AssetFile": "Images/فن الحياة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:39:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/فن الحياة.ue3d0k438c.jpg",
+      "AssetFile": "Images/فن الحياة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:39:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ue3d0k438c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/فن الحياة.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/إعلان عن جريمة.pdf",
+      "AssetFile": "PDFs/إعلان عن جريمة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18624437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:49:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/إعلان عن جريمة.rlszbu77qm.pdf",
+      "AssetFile": "PDFs/إعلان عن جريمة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18624437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:49:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rlszbu77qm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg="
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/إعلان عن جريمة.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/السؤال الحائر.hvxrfqzcwf.pdf",
+      "AssetFile": "PDFs/السؤال الحائر.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1177142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:57:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hvxrfqzcwf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE="
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/السؤال الحائر.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/السؤال الحائر.pdf",
+      "AssetFile": "PDFs/السؤال الحائر.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1177142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:57:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رحلتي من الشك إلى الإيمان.3f86nm20ep.pdf",
+      "AssetFile": "PDFs/رحلتي من الشك إلى الإيمان.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "356101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:46:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3f86nm20ep"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU="
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/رحلتي من الشك إلى الإيمان.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رحلتي من الشك إلى الإيمان.pdf",
+      "AssetFile": "PDFs/رحلتي من الشك إلى الإيمان.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "356101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:46:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية العنكبوت.6l68ohh0h6.pdf",
+      "AssetFile": "PDFs/رواية العنكبوت.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9231297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:19:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l68ohh0h6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU="
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/رواية العنكبوت.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية العنكبوت.pdf",
+      "AssetFile": "PDFs/رواية العنكبوت.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9231297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:19:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية رجال في الشمس.pdf",
+      "AssetFile": "PDFs/رواية رجال في الشمس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1280263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:16:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية رجال في الشمس.wf1dk1ogh0.pdf",
+      "AssetFile": "PDFs/رواية رجال في الشمس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1280263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:16:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wf1dk1ogh0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I="
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/رواية رجال في الشمس.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/فن_الحياة.a0yyhpr355.pdf",
+      "AssetFile": "PDFs/فن_الحياة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2734124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:27:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0yyhpr355"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs="
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/فن_الحياة.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/فن_الحياة.pdf",
+      "AssetFile": "PDFs/فن_الحياة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2734124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:27:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/كتاب تهمة اليأس.hyuwzcsqqn.pdf",
+      "AssetFile": "PDFs/كتاب تهمة اليأس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6365955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:21:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hyuwzcsqqn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY="
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/كتاب تهمة اليأس.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/كتاب تهمة اليأس.pdf",
+      "AssetFile": "PDFs/كتاب تهمة اليأس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6365955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:21:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY="
+        }
+      ]
+    }
+  ]
+}

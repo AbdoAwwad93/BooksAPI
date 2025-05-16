@@ -1,0 +1,21 @@
+wwwroot\Audio\السؤال الحائر.m4a
+wwwroot\Audio\رحلتي من الشك للإيمان.m4a
+wwwroot\Audio\رواية اعلان عن جريمة.m4a
+wwwroot\Audio\رواية العنكبوت.m4a
+wwwroot\Audio\غسان كنفاني - رجال في الشمس.m4a
+wwwroot\Audio\فن الحياة.m4a
+wwwroot\Audio\كتاب تهمة اليأس.m4a
+wwwroot\Images\إعلان_عن_جريمة.jpg
+wwwroot\Images\السؤال الحائر.jpg
+wwwroot\Images\تهمة اليأس.jpg
+wwwroot\Images\رجال في الشمس.jpg
+wwwroot\Images\رحلتي من الشك إلى الأيمان.jpg
+wwwroot\Images\رواية_العنكبوت.jpg
+wwwroot\Images\فن الحياة.jpg
+wwwroot\PDFs\إعلان عن جريمة.pdf
+wwwroot\PDFs\السؤال الحائر.pdf
+wwwroot\PDFs\رحلتي من الشك إلى الإيمان.pdf
+wwwroot\PDFs\رواية العنكبوت.pdf
+wwwroot\PDFs\رواية رجال في الشمس.pdf
+wwwroot\PDFs\فن_الحياة.pdf
+wwwroot\PDFs\كتاب تهمة اليأس.pdf

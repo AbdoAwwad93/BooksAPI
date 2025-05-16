@@ -1,0 +1,2185 @@
+{
+  "Version": 1,
+  "Hash": "lWeEUX+YCcG8iNM+uwhWWn6c91DzRlzpZ4z4X2+dh0Y=",
+  "Source": "BooksAPI",
+  "BasePath": "_content/BooksAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BooksAPI\\wwwroot",
+      "Source": "BooksAPI",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\السؤال الحائر.m4a",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Audio/السؤال الحائر#[.{fingerprint}]?.m4a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6i67iyux9v",
+      "Integrity": "rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Audio\\السؤال الحائر.m4a"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Audio/رحلتي من الشك للإيمان#[.{fingerprint}]?.m4a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "od1g1hyvn0",
+      "Integrity": "BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Audio/رواية اعلان عن جريمة#[.{fingerprint}]?.m4a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opjfh0epjz",
+      "Integrity": "jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Audio\\رواية اعلان عن جريمة.m4a"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية العنكبوت.m4a",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Audio/رواية العنكبوت#[.{fingerprint}]?.m4a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vyhdc9713y",
+      "Integrity": "N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Audio\\رواية العنكبوت.m4a"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Audio/غسان كنفاني - رجال في الشمس#[.{fingerprint}]?.m4a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "avzgaf2xi4",
+      "Integrity": "aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\فن الحياة.m4a",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Audio/فن الحياة#[.{fingerprint}]?.m4a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v2tifsnnke",
+      "Integrity": "SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Audio\\فن الحياة.m4a"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Audio/كتاب تهمة اليأس#[.{fingerprint}]?.m4a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3n2g6g4kjd",
+      "Integrity": "oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Audio\\كتاب تهمة اليأس.m4a"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Images/إعلان_عن_جريمة#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hyma8187z",
+      "Integrity": "+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\إعلان_عن_جريمة.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\السؤال الحائر.jpg",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Images/السؤال الحائر#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j71b67djl4",
+      "Integrity": "36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\السؤال الحائر.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\تهمة اليأس.jpg",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Images/تهمة اليأس#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "difdlv4805",
+      "Integrity": "xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\تهمة اليأس.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رجال في الشمس.jpg",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Images/رجال في الشمس#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wmoaottiox",
+      "Integrity": "OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\رجال في الشمس.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Images/رحلتي من الشك إلى الأيمان#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qz4fqnfy3g",
+      "Integrity": "+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رواية_العنكبوت.jpg",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Images/رواية_العنكبوت#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yprrvmsxwh",
+      "Integrity": "Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\رواية_العنكبوت.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\فن الحياة.jpg",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "Images/فن الحياة#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ue3d0k438c",
+      "Integrity": "et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\فن الحياة.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "PDFs/إعلان عن جريمة#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rlszbu77qm",
+      "Integrity": "cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDFs\\إعلان عن جريمة.pdf"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\السؤال الحائر.pdf",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "PDFs/السؤال الحائر#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hvxrfqzcwf",
+      "Integrity": "w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDFs\\السؤال الحائر.pdf"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "PDFs/رحلتي من الشك إلى الإيمان#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3f86nm20ep",
+      "Integrity": "4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "PDFs/رواية العنكبوت#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6l68ohh0h6",
+      "Integrity": "piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDFs\\رواية العنكبوت.pdf"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "PDFs/رواية رجال في الشمس#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wf1dk1ogh0",
+      "Integrity": "dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDFs\\رواية رجال في الشمس.pdf"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\فن_الحياة.pdf",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "PDFs/فن_الحياة#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a0yyhpr355",
+      "Integrity": "qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDFs\\فن_الحياة.pdf"
+    },
+    {
+      "Identity": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
+      "SourceId": "BooksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\",
+      "BasePath": "_content/BooksAPI",
+      "RelativePath": "PDFs/كتاب تهمة اليأس#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hyuwzcsqqn",
+      "Integrity": "uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDFs\\كتاب تهمة اليأس.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Audio/السؤال الحائر.6i67iyux9v.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\السؤال الحائر.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121562251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6i67iyux9v"
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/السؤال الحائر.m4a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/السؤال الحائر.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\السؤال الحائر.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121562251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rlarBn3Nn65G9HfoUZVjJMxK/eCvB0SgR/SoZuvQmZA="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رحلتي من الشك للإيمان.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141188257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رحلتي من الشك للإيمان.od1g1hyvn0.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رحلتي من الشك للإيمان.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141188257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "od1g1hyvn0"
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/رحلتي من الشك للإيمان.m4a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDAVbYKoCQCI80kr5kz/5m/pF14VUGATMwQzI3BgAW4="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية اعلان عن جريمة.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205508007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:22:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية اعلان عن جريمة.opjfh0epjz.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية اعلان عن جريمة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205508007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:22:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opjfh0epjz"
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/رواية اعلان عن جريمة.m4a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOLEj2JUm74TT7j0vX87HOIBkOsG5kaPWNPz+n1R7vc="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية العنكبوت.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية العنكبوت.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131288353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/رواية العنكبوت.vyhdc9713y.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\رواية العنكبوت.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131288353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vyhdc9713y"
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/رواية العنكبوت.m4a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5zfOnRy5rlVJnC67zNikNAPZnDgYpxmPLTUEtZqktI="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/غسان كنفاني - رجال في الشمس.avzgaf2xi4.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138263924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avzgaf2xi4"
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/غسان كنفاني - رجال في الشمس.m4a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/غسان كنفاني - رجال في الشمس.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\غسان كنفاني - رجال في الشمس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138263924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aqCtcZdnAGrMlO9L2tLPrKcaIOTgucjstYVHUPhWSaU="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/فن الحياة.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\فن الحياة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218813306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/فن الحياة.v2tifsnnke.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\فن الحياة.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218813306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v2tifsnnke"
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/فن الحياة.m4a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQ16N80ZoKzGFEeNtL7ch54dF6SrekVeYoHbhTmxN3o="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/كتاب تهمة اليأس.3n2g6g4kjd.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185613845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3n2g6g4kjd"
+        },
+        {
+          "Name": "label",
+          "Value": "Audio/كتاب تهمة اليأس.m4a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY="
+        }
+      ]
+    },
+    {
+      "Route": "Audio/كتاب تهمة اليأس.m4a",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Audio\\كتاب تهمة اليأس.m4a",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185613845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUhQNhZUtUW189ylrrweswBdKwqyfa4mvBuHZ/3ymbY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/إعلان_عن_جريمة.3hyma8187z.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:46:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hyma8187z"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/إعلان_عن_جريمة.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/إعلان_عن_جريمة.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\إعلان_عن_جريمة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:46:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S2W+yvbRUnhihQIV3mmDX7OTsIHWe6JKkvXAP41HT8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/السؤال الحائر.j71b67djl4.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\السؤال الحائر.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j71b67djl4"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/السؤال الحائر.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/السؤال الحائر.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\السؤال الحائر.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-36xjcS2HtihUhrOahYZPwMUGfy8w2yTvLD5+jHyVI1E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/تهمة اليأس.difdlv4805.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\تهمة اليأس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:25:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "difdlv4805"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/تهمة اليأس.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/تهمة اليأس.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\تهمة اليأس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:25:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeCfueXo4+Q2Oj8vUSU+52cutowrcmJCQWlSvCTg4rg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رجال في الشمس.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رجال في الشمس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رجال في الشمس.wmoaottiox.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رجال في الشمس.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 15:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wmoaottiox"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/رجال في الشمس.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJeU8HyRdB4w8k6/b+Q1CC+UFY+H6mUAhKhaHmaznQU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رحلتي من الشك إلى الأيمان.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:43:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رحلتي من الشك إلى الأيمان.qz4fqnfy3g.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رحلتي من الشك إلى الأيمان.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:43:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qz4fqnfy3g"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/رحلتي من الشك إلى الأيمان.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rIsvgXWDfKKZdGm4LxjLqibt6ge+Iy04M/ki2Vd19c="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رواية_العنكبوت.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رواية_العنكبوت.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps="
+        }
+      ]
+    },
+    {
+      "Route": "Images/رواية_العنكبوت.yprrvmsxwh.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\رواية_العنكبوت.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yprrvmsxwh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/رواية_العنكبوت.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fly4l+cOs/g7FhAUOUQr2nERU1z2nQt5DIqMtI0yyps="
+        }
+      ]
+    },
+    {
+      "Route": "Images/فن الحياة.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\فن الحياة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/فن الحياة.ue3d0k438c.jpg",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\Images\\فن الحياة.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ue3d0k438c"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/فن الحياة.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-et3iGGakNxOURt/D/cLWSbWjrN/h0iiH9p+/9ZJIjm0="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/إعلان عن جريمة.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18624437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:49:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/إعلان عن جريمة.rlszbu77qm.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\إعلان عن جريمة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18624437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:49:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rlszbu77qm"
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/إعلان عن جريمة.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTEec5Ia5u/ijK5giLSchceMLQgLcv8DYdV8X6clpmg="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/السؤال الحائر.hvxrfqzcwf.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\السؤال الحائر.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1177142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hvxrfqzcwf"
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/السؤال الحائر.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/السؤال الحائر.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\السؤال الحائر.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1177142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w9Sw+mJ4sU/hbwyUAZNVjM1ivgwg8xz3gYtQf+ClhmE="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رحلتي من الشك إلى الإيمان.3f86nm20ep.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "356101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:46:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3f86nm20ep"
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/رحلتي من الشك إلى الإيمان.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رحلتي من الشك إلى الإيمان.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رحلتي من الشك إلى الإيمان.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "356101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:46:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4eCjTY0ekKD9dqQMqlBHsAAIag8n/zOH2HgYLVyW/KU="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية العنكبوت.6l68ohh0h6.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9231297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:19:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l68ohh0h6"
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/رواية العنكبوت.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية العنكبوت.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية العنكبوت.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9231297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:19:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-piD1hnQgn/iHrPpLnSASDxs4ct0GixctI0O5A3c8knU="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية رجال في الشمس.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1280263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/رواية رجال في الشمس.wf1dk1ogh0.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\رواية رجال في الشمس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1280263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wf1dk1ogh0"
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/رواية رجال في الشمس.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dP9Mw6FhgNnLMpUEoLseL7AnGoENfsljmY+++Of6+7I="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/فن_الحياة.a0yyhpr355.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\فن_الحياة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2734124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0yyhpr355"
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/فن_الحياة.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/فن_الحياة.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\فن_الحياة.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2734124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgUB4EvBy6ZKGkg2FOntrNd+6z2dPCQdhsEewUbVzPs="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/كتاب تهمة اليأس.hyuwzcsqqn.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6365955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hyuwzcsqqn"
+        },
+        {
+          "Name": "label",
+          "Value": "PDFs/كتاب تهمة اليأس.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY="
+        }
+      ]
+    },
+    {
+      "Route": "PDFs/كتاب تهمة اليأس.pdf",
+      "AssetFile": "E:\\projects\\BooksAPI\\BooksAPI\\wwwroot\\PDFs\\كتاب تهمة اليأس.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6365955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 12:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVfG8rbSxfkAOiydjqebBILIGh0LZia53t2jKac1ysY="
+        }
+      ]
+    }
+  ]
+}
